@@ -31,7 +31,7 @@ spec:
     spec:
       containers:
         - name: hello-api
-          image: saiprathapk17/hello-api:1.0.0
+          image: saiprathapk17/hello-api:2.0.0
           imagePullPolicy: Always
 
           ports:
